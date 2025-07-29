@@ -1,0 +1,10 @@
+{
+  "result": {
+    "results": [
+      "Task executed by Unknown Agent: Help the user with their request: \n    Search for the latest news about artificial intelligence on TechCrunch.\n    Find the title and summary of the most recent article.\n    "
+    ],
+    "status": "completed",
+    "message": "Crew execution completed successfully"
+  },
+  "browser_content": ""
+}

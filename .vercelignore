@@ -1,0 +1,41 @@
+# Ignore large directories
+node_modules/
+__pycache__/
+.venv/
+
+# Ignore test files and screenshots
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Ignore local development files
+.env
+*.log
+
+# Ignore version control
+.git
+.gitignore
+
+# Ignore local development files
+.DS_Store
+*.swp
+*.swo
+
+# Ignore Docker files
+Dockerfile
+.dockerignore
+
+# Ignore local deployment files
+.vercel
+
+# Ignore test files
+*test_*.py
+*_test.py
+
+# Ignore large data files
+*.json
+*.pkl
+*.h5
+*.pt
+*.bin

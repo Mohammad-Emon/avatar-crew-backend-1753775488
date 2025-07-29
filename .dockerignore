@@ -1,0 +1,3 @@
+# flyctl launch added from .venv/lib/python3.11/site-packages/weaviate/.gitignore
+.venv/lib/python3.11/site-packages/weaviate/**/_version.py
+fly.toml

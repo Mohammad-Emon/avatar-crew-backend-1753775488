@@ -1,0 +1,20 @@
+# Core dependencies
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart>=0.0.5
+
+# AI/ML dependencies
+crewai>=0.28.0  # Updated to latest version that supports newer openai
+openai>=1.0.0,<2.0.0  # Pinned to major version 1.x
+weaviate-client>=3.15.0
+langchain>=0.1.0,<1.0.0
+langchain-community>=0.0.10
+
+# Other dependencies
+requests>=2.31.0
+playwright>=1.40.0
+python-dotenv>=1.0.04
+
+# Pinned dependencies to ensure compatibility
+pydantic>=2.0.0,<3.0.0
+pydantic-settings>=2.0.0,<3.0.0

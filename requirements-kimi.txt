@@ -1,0 +1,5 @@
+# Kimi K2 specific requirements
+openai>=1.0.0
+langchain>=0.0.200
+langchain-community>=0.0.10
+python-dotenv>=1.0.0
